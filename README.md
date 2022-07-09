@@ -1,4 +1,5 @@
-<h2>React App - To Do List </h2>
+<h1> Technology: React.js</h1>
+<h2>App Name: To Do List </h2>
 <h3> Functions </h>
 <ul>
     <li>
