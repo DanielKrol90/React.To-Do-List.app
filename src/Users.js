@@ -42,7 +42,7 @@ class Users extends Component {
   render() {
     return (
       <div className="users-main">
-        <h1>User's List</h1>
+        <h1>What to do Today</h1>
         <form onSubmit={this.addUser}>
           <input
             ref={(element) => {
